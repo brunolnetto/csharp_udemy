@@ -1,0 +1,11 @@
+/home/bpeixoto/Documents/Cursos/C#/lista-exercicios/Ex1/obj/Debug/netcoreapp2.1/Ex1.csprojAssemblyReference.cache
+/home/bpeixoto/Documents/Cursos/C#/lista-exercicios/Ex1/obj/Debug/netcoreapp2.1/Ex1.csproj.CoreCompileInputs.cache
+/home/bpeixoto/Documents/Cursos/C#/lista-exercicios/Ex1/obj/Debug/netcoreapp2.1/Ex1.AssemblyInfoInputs.cache
+/home/bpeixoto/Documents/Cursos/C#/lista-exercicios/Ex1/obj/Debug/netcoreapp2.1/Ex1.AssemblyInfo.cs
+/home/bpeixoto/Documents/Cursos/C#/lista-exercicios/Ex1/bin/Debug/netcoreapp2.1/Ex1.deps.json
+/home/bpeixoto/Documents/Cursos/C#/lista-exercicios/Ex1/bin/Debug/netcoreapp2.1/Ex1.runtimeconfig.json
+/home/bpeixoto/Documents/Cursos/C#/lista-exercicios/Ex1/bin/Debug/netcoreapp2.1/Ex1.runtimeconfig.dev.json
+/home/bpeixoto/Documents/Cursos/C#/lista-exercicios/Ex1/bin/Debug/netcoreapp2.1/Ex1.dll
+/home/bpeixoto/Documents/Cursos/C#/lista-exercicios/Ex1/bin/Debug/netcoreapp2.1/Ex1.pdb
+/home/bpeixoto/Documents/Cursos/C#/lista-exercicios/Ex1/obj/Debug/netcoreapp2.1/Ex1.dll
+/home/bpeixoto/Documents/Cursos/C#/lista-exercicios/Ex1/obj/Debug/netcoreapp2.1/Ex1.pdb
